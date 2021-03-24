@@ -46,6 +46,8 @@ Figure 10 - 0306_Comparing Well Prediction.ipynb
 
 Figure 11 - 0316_Q_map.ipnyb
 
+## Video about accessing datasets and running models: 
+https://www.youtube.com/watch?v=lc5TMNuvQ-8
 ----Appendix----
 Cross Validation, Model Comparison, and Hyperparameter tuning for
 XGBoost, DNN, Ridge Regression, and Random Forest is in
